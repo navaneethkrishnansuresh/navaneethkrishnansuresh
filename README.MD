@@ -4,7 +4,7 @@
 
 I build AI systems around **agents, inference, GPU infrastructure, fine-tuning, evaluation, and computer vision.**
 
-[Website](https://navaneethks.site) · [Upwork](https://upwork.com/freelancers/navaneeth) · [LinkedIn](https://www.linkedin.com/in/navaneethks/) · [GitHub](https://github.com/navaneethkrishnansuresh)
+[Website](https://navaneethks.site) · [Upwork](https://upwork.com/freelancers/navaneeth) · [LinkedIn](https://www.linkedin.com/in/navaneethksofficial/) 
 
 ---
 
