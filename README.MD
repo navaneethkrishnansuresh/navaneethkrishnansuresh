@@ -14,7 +14,7 @@ I build AI systems across production infrastructure, open-source AI, research, a
 
 - **Upwork Top Rated · 100% Job Success** delivering AI/ML systems
 - **Founder of [RailCompute](https://railcompute.com)** · AI training infrastructure
-- **Published IEEE Researcher** · Micro-expression recognition
+- **Published IEEE Researcher** · Computer Vision
 
 ---
 
