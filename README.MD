@@ -21,14 +21,14 @@ I build AI systems across production infrastructure, open-source AI, research, a
 
 ## Selected Engineering Work
 
-### [RailCompute](https://railcompute.com) Agentic AI training infrastructure that orchestrates data prep → training → evaluation → packaging while managing the underlying GPU compute.
+**[RailCompute](https://railcompute.com)** Agentic AI training infrastructure that orchestrates data prep → training → evaluation → packaging while managing the underlying GPU compute.
 
-### [BrainDrive](https://github.com/BrainDriveAI/BrainDrive) Open-source self-hosted personal AI platform centered on persistent memory, agentic workflows, model integrations, MCP/tooling, and user-owned data (hosted at [my.braindrive.ai](https://my.braindrive.ai/)).
+**[BrainDrive](https://github.com/BrainDriveAI/BrainDrive)** Open-source self-hosted personal AI platform centered on persistent memory, agentic workflows, model integrations, MCP/tooling, and user-owned data (hosted at [my.braindrive.ai](https://my.braindrive.ai/)).
 
-### [ModelMatch](https://github.com/BrainDriveAI/ModelMatch) Practical evaluation framework for language models on real-world tasks like summarization, conversation, email generation, financial reasoning, and more.
+**[ModelMatch](https://github.com/BrainDriveAI/ModelMatch)** Practical evaluation framework for language models on real-world tasks like summarization, conversation, email generation, financial reasoning, and more.
 
 ---
 
 ## Research & Publications
 
-### [Micro-Expressions with Swin-T on CASME II](https://ieeexplore.ieee.org/document/11508092) IEEE paper on micro-expression recognition using Swin-T that hit **91.28% accuracy** and **0.9087 macro-F1** on CASME II, with RAF-DB pretraining outperforming prior approaches.
+**[Micro-Expressions with Swin-T on CASME II](https://ieeexplore.ieee.org/document/11508092)** IEEE paper on micro-expression recognition using Swin-T that hit **91.28% accuracy** and **0.9087 macro-F1** on CASME II, with RAF-DB pretraining outperforming prior approaches.
