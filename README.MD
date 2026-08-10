@@ -2,7 +2,6 @@
 I build AI systems across production infrastructure, open-source AI, research, and AI consulting, with a focus on turning models into systems that actually work.
 - **Upwork Top Rated · 100% Job Success** delivering AI/ML systems
 - **Prev Core AI Engineer at [BrainDrive](https://github.com/BrainDriveAI)**
-- **Published IEEE Researcher** · Computer Vision
 [Website](https://navaneethks.site) · [Upwork](https://upwork.com/freelancers/navaneeth) · [LinkedIn](https://www.linkedin.com/in/navaneethksofficial/)
 
 ---
