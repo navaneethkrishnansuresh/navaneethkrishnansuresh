@@ -1,8 +1,8 @@
 # Navaneeth Krishnan
 I build AI systems across production infrastructure, open-source AI, research, and AI consulting, with a focus on turning models into systems that actually work.
 - **Upwork Top Rated**.
-- **Prev Core AI Engineer at [BrainDrive](https://github.com/BrainDriveAI)**
-[Website](https://navaneethks.site) · [Upwork](https://upwork.com/freelancers/navaneeth) · [LinkedIn](https://www.linkedin.com/in/navaneethksofficial/)
+- **Prev Core AI Engineer at [BrainDrive](https://github.com/BrainDriveAI)** 
+- [Website](https://navaneethks.site) · [Upwork](https://upwork.com/freelancers/navaneeth) · [LinkedIn](https://www.linkedin.com/in/navaneethksofficial/)
 
 ---
 
